@@ -1,1 +1,1 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&pause=1000&vCenter=true&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=800&size=30&pause=1000&vCenter=true&multiline=true&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
