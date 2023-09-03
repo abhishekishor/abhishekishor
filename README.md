@@ -7,17 +7,55 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=A+passionate+DevOps+Engineer+From+India;Welcome+To+My+World;Always+learning+something+new" alt="Typing SVG" /></a>
 </p>
 
+# Introduction:
+
+<p align="center" >
+  <samp>
+    👋 Hello World!
+
+I'm a DevOps Engineer equivalent of a superhero, except instead of a cap, I wear a hoodie. And instead of fighting crime, I'm fighting Downtime.
+
+## *🧐 Some Things About Me:*
+
+🤔 I'm a DevOps Engineer, but my family and friends still don't really understand what I do.
+
+They just know that I have a lot of stickers on my laptop and that I talk about Linux, Jenkins a lot.
+
+💓 I'm committed with Git.
+
+🐳 Sometimes I put certain things in the Container.
+
+☸ And sometimes I even become the Captain (Jack Sparrow) managing containers on my own.
+
+📉 When the Network is down, I'm all alone with my thoughts. 🥹
+
+### ⚡ Fun Fact About Me:
+- [x] Continuous Improvement (Like Naruto's Training)
+- [x] Learning from Failure (Like Naruto's Mistakes)
+- [x] Automation (Like Itachi's Amaterasu)
+- [x] Monitoring (Like Naruto's Sensory Abilities)
+- [x] Continuous Integration (Like Naruto's Rasengan)
+- [x] Believe It! (Like Naruto's Catchphrase)**
+
+💬 Favourite Quote: "If you don't wake up everyday with a burning desire to do things, you don't have enough goals." - Lou Holtz
+  </samp>
+  <br/>
+</p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekishor&theme=highcontrast" alt="abhishekishor" /></p>
+
+![34e69eb61a7bd8dea1c957a8b82605a7](https://github.com/abhishekishor/abhishekishor/assets/121818867/91421f19-0f67-4085-846d-e1e980381738)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekishor&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekishor" /> </p>
+
+### Trophies:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekishor" alt="abhishekishor" /></a> </p>
 
-- 🔭 I’m currently working on **DevOps Tools**
+## 📫 How to reach me? <img align="center" src="https://github.com/RishikeshOps/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
 
-- 📝 I regularly write articles on Hashnode [https://hashnode.com/@abhishekishor](https://hashnode.com/@abhishekishor)
-
-- 📫 How to reach me **kishoravishek@gmail.com**
-
-- ⚡ Fun fact about me: **Continuous Improvement (Like Naruto's Training), Learning from Failure (Like Naruto's Mistakes), Automation (Like Itachi's Amaterasu), Monitoring (Like Naruto's Sensory Abilities), Continuous Integration (Like Naruto's Rasengan), Believe It! (Like Naruto's Catchphrase)**
+  ⦿ Follow me on [Hashnode](https://fromroadtodevops.co/about) 🌐 <br>
+  ⦿ Shoot Me an [Email](mailto:kishoravishek@gmail.com) 📫 <br>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
