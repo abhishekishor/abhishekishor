@@ -81,8 +81,12 @@ They just know that I have a lot of stickers on my laptop and that I talk about 
 </p>
   
 </details>
+ 
+<h3 align="Center">Profile Views:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekishor&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekishor" /> </p>
+<p align="center"><img align="center"
+  
+  ![VisitorCount](https://profile-counter.glitch.me/abhishekishor/count.svg) </p>
 
 ### Trophies:
 
