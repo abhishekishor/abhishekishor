@@ -7,6 +7,12 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=A+passionate+DevOps+Engineer+From+India;Welcome+To+My+World;Always+learning+something+new" alt="Typing SVG" /></a>
 </p>
 
+<p align="center">
+
+![my animated pic](https://github.com/abhishekishor/abhishekishor/assets/121818867/fb0879c1-7e03-4b7d-b9d3-75c860eeb523)
+
+</p>
+
 # Introduction:
 
 <p align="center" >
