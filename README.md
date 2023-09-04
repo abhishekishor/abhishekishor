@@ -104,3 +104,81 @@ They just know that I have a lot of stickers on my laptop and that I talk about 
 
 
 <img src="https://symbols.getvecta.com/stencil_9/12_amazon-ecr.df3492d909.svg" alt="AWS Logo" width="40">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<details> 
+
+  <summary><h2>🛠️ My Favourite Tools:</h2></summary>
+
+<h3>👨‍💻 Operating System</h3>
+
+<p>
+
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+
+  
+</p>
+
+
+<h3>👨‍💻 Version Control System</h3>
+
+<p>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  
+</p>
+
+<h3>👨‍💻 Containerization System</h3>
+
+<p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker Logo" width="100">
+
+</p>
+
+<h3>👨‍💻Container Orchestration System</h3>
+
+<p>
+
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+
+</p>
+
+
+<h3>👨‍💻 Automation Server</h3>
+
+<p>
+
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+
+</p>
+
+<h3>👨‍💻 Scripting</h3>
+
+<p>
+
+<img src="https://www.vectorlogo.zone/logos/shell/shell-icon.svg" alt="Shell Logo" width="40">
+
+</p>
+
+
+<h3>👨‍💻 Cloud Infrastructure</h3>
+
+<p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/640px-Amazon_Web_Services_Logo.svg.png" alt="AWS Logo" width="40">
+
+</p>
+  
+</details>
