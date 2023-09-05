@@ -173,12 +173,40 @@ They just know that I have a lot of stickers on my laptop and that I talk about 
 </p>
 
 
-<h3>👨‍💻 Cloud Infrastructure</h3>
+
+
+
+
+<details>
+
+<summary><h3>👨‍💻 Cloud Infrastructure</h3></summary>
 
 <p>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/640px-Amazon_Web_Services_Logo.svg.png" alt="AWS Logo" width="40">
 
 </p>
+
+
+<h4>👨‍💻 AWS Network and Content Delivery</h4>
+
+<p>
+
+<img src="https://symbols.getvecta.com/stencil_9/19_amazon-vpc.5a236e258b.svg" alt="AWS VPC Logo" width="40"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://symbols.getvecta.com/stencil_20/4_amazon-route-53.997d2f10f7.svg" alt="AWS Route53 Logo" width="40">
+
+</p>
+
+
+<h4>👨‍💻 AWS Storage</h4>
+
+<p>
+
+<img src="https://symbols.getvecta.com/stencil_24/8_s3-bucket-with-objects.8e17c9b9e5.svg" alt="AWS VPC Logo" width="40">
+
+</p>
+
+
+
+  <details>
   
 </details>
