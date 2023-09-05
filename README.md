@@ -208,6 +208,6 @@ They just know that I have a lot of stickers on my laptop and that I talk about 
 
 
 
-  <details>
+  </details>
   
 </details>
