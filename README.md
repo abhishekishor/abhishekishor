@@ -17,6 +17,11 @@
 
 <p align="center" >
   <samp>
+
+### Trophies:
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekishor" alt="abhishekishor" /></a> </p>
+
     
    ### 👋 Hello World!
 
@@ -88,9 +93,6 @@ They just know that I have a lot of stickers on my laptop and that I talk about 
   
   ![VisitorCount](https://profile-counter.glitch.me/abhishekishor/count.svg) </p>
 
-### Trophies:
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekishor" alt="abhishekishor" /></a> </p>
 
 ## 📫 Connect with me: 
 
