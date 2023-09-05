@@ -202,7 +202,7 @@ They just know that I have a lot of stickers on my laptop and that I talk about 
 
 <p>
 
-<img src="https://noname.work/wp-content/uploads/2019/04/ECS_icon.png" alt="AWS VPC Logo" width="40"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://symbols.getvecta.com/stencil_9/12_amazon-ecr.df3492d909.svg" alt="AWS VPC Logo" width="40"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://acloudxpert.com/wp-content/uploads/2020/04/Amazon-EC2-Container-Registry@4x.png" alt="AWS VPC Logo" width="40"> 
+<img src="https://noname.work/wp-content/uploads/2019/04/ECS_icon.png" alt="AWS ECS" width="40"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://acloudxpert.com/wp-content/uploads/2020/04/Amazon-Elastic-Kubernetes-Service@4x.png" alt="AWS EKS" width="40"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://acloudxpert.com/wp-content/uploads/2020/04/Amazon-EC2-Container-Registry@4x.png" alt="AWS ECR" width="40"> 
 
 </p>
 
