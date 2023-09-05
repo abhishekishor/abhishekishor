@@ -110,7 +110,7 @@ They just know that I have a lot of stickers on my laptop and that I talk about 
 
 <p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TuxFlat.svg/640px-TuxFlat.svg.png" alt="Linux" width="40" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cropped-Windows10-icon.png/640px-Cropped-Windows10-icon.png" alt="Linux" width="40" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TuxFlat.svg/640px-TuxFlat.svg.png" alt="Linux" width="40" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cropped-Windows10-icon.png/640px-Cropped-Windows10-icon.png" alt="Windows" width="40" height="50"/>
 
   
 </p>
@@ -120,7 +120,7 @@ They just know that I have a lot of stickers on my laptop and that I talk about 
 
 <p>
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
   
 </p>
 
@@ -128,7 +128,7 @@ They just know that I have a lot of stickers on my laptop and that I talk about 
 
 <p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker Logo" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker" width="100">
 
 </p>
 
@@ -136,7 +136,7 @@ They just know that I have a lot of stickers on my laptop and that I talk about 
 
 <p>
 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/> </a>
 
 </p>
 
@@ -145,7 +145,7 @@ They just know that I have a lot of stickers on my laptop and that I talk about 
 
 <p>
 
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" height="60"/>
 
 </p>
 
@@ -153,7 +153,7 @@ They just know that I have a lot of stickers on my laptop and that I talk about 
 
 <p>
 
-<img src="https://www.vectorlogo.zone/logos/shell/shell-icon.svg" alt="Shell Logo" width="40">
+<img src="https://www.vectorlogo.zone/logos/shell/shell-icon.svg" alt="Shell" width="40">
 
 </p>
 
@@ -177,7 +177,7 @@ They just know that I have a lot of stickers on my laptop and that I talk about 
 
 <p>
 
-<img src="https://symbols.getvecta.com/stencil_9/19_amazon-vpc.5a236e258b.svg" alt="AWS VPC Logo" width="40"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://symbols.getvecta.com/stencil_20/4_amazon-route-53.997d2f10f7.svg" alt="AWS Route53 Logo" width="40">
+<img src="https://symbols.getvecta.com/stencil_9/19_amazon-vpc.5a236e258b.svg" alt="AWS VPC Logo" width="40"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://symbols.getvecta.com/stencil_20/4_amazon-route-53.997d2f10f7.svg" alt="AWS Route53" width="40">
 
 </p>
 
@@ -186,7 +186,7 @@ They just know that I have a lot of stickers on my laptop and that I talk about 
 
 <p>
 
-<img src="https://symbols.getvecta.com/stencil_24/8_s3-bucket-with-objects.8e17c9b9e5.svg" alt="AWS VPC Logo" width="40">
+<img src="https://symbols.getvecta.com/stencil_24/8_s3-bucket-with-objects.8e17c9b9e5.svg" alt="AWS S3" width="40">
 
 </p>
 
@@ -194,7 +194,7 @@ They just know that I have a lot of stickers on my laptop and that I talk about 
 
 <p>
 
-<img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/aws-cloud-security/control-access-with-aws-identity-and-access-management/images/3d5ecfeab35e8dfc1eb781f7880fafc9_99-c-15-ccc-fe-5-e-4-d-8-f-bcfc-193197-b-9-dc-7-b.png" alt="AWS VPC Logo" width="40">
+<img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/aws-cloud-security/control-access-with-aws-identity-and-access-management/images/3d5ecfeab35e8dfc1eb781f7880fafc9_99-c-15-ccc-fe-5-e-4-d-8-f-bcfc-193197-b-9-dc-7-b.png" alt="AWS IAM" width="40">
 
 </p>
 
