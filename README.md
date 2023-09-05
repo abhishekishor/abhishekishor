@@ -110,7 +110,7 @@ They just know that I have a lot of stickers on my laptop and that I talk about 
 
 <p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TuxFlat.svg/640px-TuxFlat.svg.png" alt="Linux" width="40" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cropped-Windows10-icon.png/640px-Cropped-Windows10-icon.png" alt="Windows" width="40" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TuxFlat.svg/640px-TuxFlat.svg.png" alt="Linux" width="40" height="45"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cropped-Windows10-icon.png/640px-Cropped-Windows10-icon.png" alt="Windows" width="40" height="45"/>
 
   
 </p>
