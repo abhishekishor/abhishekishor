@@ -125,7 +125,7 @@ They just know that I have a lot of stickers on my laptop and that I talk about 
 
 <p>
 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TuxFlat.svg/640px-TuxFlat.svg.png" alt="Linux" width="40" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cropped-Windows10-icon.png/640px-Cropped-Windows10-icon.png" alt="Linux" width="40" height="50"/>
 
   
 </p>
@@ -160,7 +160,7 @@ They just know that I have a lot of stickers on my laptop and that I talk about 
 
 <p>
 
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="60"/>
 
 </p>
 
