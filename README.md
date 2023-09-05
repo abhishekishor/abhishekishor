@@ -97,21 +97,6 @@ They just know that I have a lot of stickers on my laptop and that I talk about 
   ⦿ Follow me on [Hashnode](https://fromroadtodevops.co/about) 🌐 <br>
   ⦿ Shoot Me an [Email](mailto:kishoravishek@gmail.com) 📫 <br>
 
-<h2 align="left">🛠️ My Favourite Tools:</h2>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> </p>
-
-
-
-
-<img src="https://symbols.getvecta.com/stencil_9/12_amazon-ecr.df3492d909.svg" alt="AWS Logo" width="40">
-
-
-
-
-
-
-
-
 
 
 
@@ -202,6 +187,22 @@ They just know that I have a lot of stickers on my laptop and that I talk about 
 <p>
 
 <img src="https://symbols.getvecta.com/stencil_24/8_s3-bucket-with-objects.8e17c9b9e5.svg" alt="AWS VPC Logo" width="40">
+
+</p>
+
+<h4>👨‍💻 Security, Identity, & Compliance</h4>
+
+<p>
+
+<img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/aws-cloud-security/control-access-with-aws-identity-and-access-management/images/3d5ecfeab35e8dfc1eb781f7880fafc9_99-c-15-ccc-fe-5-e-4-d-8-f-bcfc-193197-b-9-dc-7-b.png" alt="AWS VPC Logo" width="40">
+
+</p>
+
+<h4>👨‍💻 Container Services</h4>
+
+<p>
+
+<img src="https://noname.work/wp-content/uploads/2019/04/ECS_icon.png" alt="AWS VPC Logo" width="40"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://symbols.getvecta.com/stencil_9/12_amazon-ecr.df3492d909.svg" alt="AWS VPC Logo" width="40"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://acloudxpert.com/wp-content/uploads/2020/04/Amazon-EC2-Container-Registry@4x.png" alt="AWS VPC Logo" width="40"> 
 
 </p>
 
