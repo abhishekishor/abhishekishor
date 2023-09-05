@@ -104,13 +104,6 @@ They just know that I have a lot of stickers on my laptop and that I talk about 
   ![VisitorCount](https://profile-counter.glitch.me/abhishekishor/count.svg) </p>
 
 
-## 📫 Connect with me: 
-
-  ⦿ Follow me on [Hashnode](https://fromroadtodevops.co/about) 🌐 <br>
-  ⦿ Shoot Me an [Email](mailto:kishoravishek@gmail.com) 📫 <br>
-
-
-
 
 
 
@@ -223,3 +216,12 @@ They just know that I have a lot of stickers on my laptop and that I talk about 
   </details>
   
 </details>
+
+
+
+
+## 📫 Connect with me: 
+
+  ⦿ Follow me on [Hashnode](https://fromroadtodevops.co/about) 🌐 <br>
+  ⦿ Shoot Me an [Email](mailto:kishoravishek@gmail.com) 📫 <br>
+
