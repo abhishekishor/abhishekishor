@@ -7,7 +7,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=A+passionate+DevOps+Engineer+From+India;Welcome+To+My+World;Always+learning+something+new" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
+<p align="center"><img align="center"
 
 ![my animated pic](https://github.com/abhishekishor/abhishekishor/assets/121818867/fb0879c1-7e03-4b7d-b9d3-75c860eeb523)
 
@@ -21,6 +21,7 @@
 ### Trophies:
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekishor" alt="abhishekishor" /></a> </p>
+
 
     
    ### 👋 Hello World!
@@ -41,13 +42,15 @@ They just know that I have a lot of stickers on my laptop and that I talk about 
 
 📉 When the Network is down, I'm all alone with my thoughts. 🥹
 
-<p> 
+<p>
+
+ <p align="center"><img align="center"
 
 ![34e69eb61a7bd8dea1c957a8b82605a7](https://github.com/abhishekishor/abhishekishor/assets/121818867/91421f19-0f67-4085-846d-e1e980381738)
 
-
 </p>
 
+</p>
 
 ### ⚡ Fun Fact About Me:
 - [x] Continuous Improvement (Like Naruto's Training)
