@@ -76,7 +76,7 @@ They just know that I have a lot of stickers on my laptop and that I talk about 
 - [x] Automation (Like Itachi's Amaterasu)
 - [x] Monitoring (Like Naruto's Sensory Abilities)
 - [x] Continuous Integration (Like Naruto's Rasengan)
-- [x] Believe It! (Like Naruto's Catchphrase)**
+- [x] Believe It! (Like Naruto's Catchphrase)
 
   </samp>
   <br/>
