@@ -81,8 +81,11 @@ They just know that I have a lot of stickers on my laptop and that I talk about 
   <br/>
 </p>
 
-<details> 
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
+
+<details>
+  
+  <summary><h2>📊 Github Stats and Activity</h2> </summary> 
+
 
 <h3>🔥 Streak Stats</h3>
 
@@ -240,3 +243,4 @@ They just know that I have a lot of stickers on my laptop and that I talk about 
   ⦿ Follow me on [Hashnode](https://fromroadtodevops.co/about) 🌐 <br>
   ⦿ Shoot Me an [Email](mailto:kishoravishek@gmail.com) 📫 <br>
 
+  https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29vM2I2cjRnNHpsbW54cnlkNmtuNnk3eGU2YWR4cXJxMnFoeGNxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U1lYhfeCEMON2rAUXD/giphy.gif
