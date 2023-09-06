@@ -56,6 +56,8 @@ They just know that I have a lot of stickers on my laptop and that I talk about 
 
 📉 When the Network is down, I'm all alone with my thoughts. 🥹
 
+💬 Favourite Quote: "If you don't wake up everyday with a burning desire to do things, you don't have enough goals." - Lou Holtz
+
 </p>
 
 </p>
@@ -76,7 +78,6 @@ They just know that I have a lot of stickers on my laptop and that I talk about 
 - [x] Continuous Integration (Like Naruto's Rasengan)
 - [x] Believe It! (Like Naruto's Catchphrase)**
 
-💬 Favourite Quote: "If you don't wake up everyday with a burning desire to do things, you don't have enough goals." - Lou Holtz
   </samp>
   <br/>
 </p>
@@ -243,4 +244,3 @@ They just know that I have a lot of stickers on my laptop and that I talk about 
   ⦿ Follow me on [Hashnode](https://fromroadtodevops.co/about) 🌐 <br>
   ⦿ Shoot Me an [Email](mailto:kishoravishek@gmail.com) 📫 <br>
 
-  https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29vM2I2cjRnNHpsbW54cnlkNmtuNnk3eGU2YWR4cXJxMnFoeGNxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U1lYhfeCEMON2rAUXD/giphy.gif
