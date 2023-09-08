@@ -57,7 +57,7 @@ They just know that I have a lot of stickers on my laptop and that I talk about 
 
 </p>
 
- <p align="center"><img align="center">
+ <p align="center"><img align="center"
 
 ![34e69eb61a7bd8dea1c957a8b82605a7](https://github.com/abhishekishor/abhishekishor/assets/121818867/91421f19-0f67-4085-846d-e1e980381738)
 
