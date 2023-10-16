@@ -243,6 +243,6 @@ They just know that I have a lot of stickers on my laptop and that I talk about 
 
   ⦿ Connect with me on [Linkedin](https://www.linkedin.com/in/aviaadikishor) <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Linkedin" width="17">  <br>
   ⦿ Follow me on [Hashnode](https://fromroadtodevops.co/about) 🌐 <br>
-  ⦿ Shoot Me an [Email](mailto:kishoravishek@gmail.com) 📫 <br>
+  ⦿ Shoot Me an [Email](mailto:kishoravishek@gmail.com) <img src="https://img.icons8.com/?size=192&id=P7UIlhbpWzZm&format=png" height="17" width="17" /></a> <br>
   
 
